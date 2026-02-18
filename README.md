@@ -68,6 +68,6 @@ T3,0
 
 ## Tech Stack
 
-Apache Spark & PySpark running on HDFS infrastructure.
-Methodology: Leveraged Spark RDDs
+Apache Spark & PySpark running on HDFS infrastructure.  
+Methodology: Leveraged Spark RDDs.  
 The project was developed on a University Cluster using Jupyter.
