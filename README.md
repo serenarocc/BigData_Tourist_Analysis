@@ -62,7 +62,7 @@ For **each tourist**, count the number of **distinct** POI categories visited in
 T1,2
 T2,2
 T3,0
-
+```
 
 ---
 
@@ -70,3 +70,4 @@ T3,0
 
 Apache Spark & PySpark running on HDFS infrastructure.
 Methodology: Leveraged Spark RDDs
+The project was developed on a University Cluster using Jupyter.
