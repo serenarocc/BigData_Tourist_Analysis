@@ -1,0 +1,6 @@
+POI1,Egyptian Museum,Museum,45.06,7.68,Italy
+POI2,Uffizi Gallery,Museum,43.76,11.25,Italy
+POI3,Pizzeria da Michele,Restaurant,40.84,14.26,Italy
+POI4,Termini Station,Railway station,41.90,12.50,Italy
+POI5,Hotel Splendido,Hotel,44.30,9.21,Italy
+POI6,Louvre,Museum,48.86,2.33,France
